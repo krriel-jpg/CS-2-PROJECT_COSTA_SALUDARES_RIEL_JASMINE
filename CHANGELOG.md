@@ -11,3 +11,5 @@
 - Modified the project title of our project proposal and README so it does not limit it to asking questions only, but includes tracking of the water intake. (Contributed by: Keane Rayleigh S. Riel)
 - Added changed to our project proposal by citing the author of established knowledge related to our project. (Contributed by: Winzy Rhoanne O. Costa)
 - Added to our objectives how we can design our app differently compares to available apps/tools. (Contributed by: Amara Niña C. Saludares)
+## Version v1.2.1 - 2026-10-22
+-The repository name which was originally "CS-2-ILA_COSTA_SALUDARES_RIEL_JASMINE" was changed to "CS-2-PROJECT_COSTA_SALUDARES_RIEL_JASMINE". (Contributed by: Winzy Rhoanne O. Costa)
