@@ -1,4 +1,4 @@
-# CS-2-ILA_COSTA_SALUDARES_RIEL_JASMINE
+# CS-2-PROJECT_COSTA_SALUDARES_RIEL_JASMINE
 ## Project Title: The Water Tracker Intake Questionnaire (With Guaranteed Results!) 
 ## Project Description:
 This is a simple python program that tracks the daily water intake of the user and determines whether they drank enough using factors like weight, exercise frequency, sex, and age.
